@@ -1,0 +1,10 @@
+Algoritmo,Cenario,N,Tempo,Comparacoes,Trocas
+BubbleSort,Aleatorio,30000,2.978978,449974269,225717712
+InsertionSort,Aleatorio,30000,0.768884,225747699,225717712
+SelectionSort,Aleatorio,30000,1.538820,449985000,29990
+BubbleSort,Ordenado,30000,0.000107,29999,0
+InsertionSort,Ordenado,30000,0.000107,29999,0
+SelectionSort,Ordenado,30000,1.574242,449985000,0
+BubbleSort,Inverso,30000,2.230124,449985000,449985000
+InsertionSort,Inverso,30000,1.531046,449985000,449985000
+SelectionSort,Inverso,30000,1.523034,449985000,15000
