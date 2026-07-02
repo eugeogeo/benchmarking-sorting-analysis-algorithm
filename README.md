@@ -1,5 +1,7 @@
 # Trabalho Prático: Benchmarking e Análise Empírica de Algoritmos de Ordenação
 
+Integrantes: Carolina Yumi Fuji e Geovana Figueiredo
+
 Este projeto contém a implementação e análise de desempenho de seis algoritmos de ordenação: BubbleSort, InsertionSort, SelectionSort, ShellSort, Quicksort e Heapsort.
 
 ## Estrutura do Projeto
